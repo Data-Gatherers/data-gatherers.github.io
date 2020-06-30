@@ -1,6 +1,6 @@
 # Site
 name: 'Data Gatherers'
-description: 'Data gatherers is a group of highly motivated data scientists trying to change the world.'
+description: 'Data gatherers are a group of highly motivated data scientists trying to change the world.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: wale
       avatar: /assets/images/avatar1.jpg
       
   # all pages
