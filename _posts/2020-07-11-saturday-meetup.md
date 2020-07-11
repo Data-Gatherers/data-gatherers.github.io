@@ -3,7 +3,7 @@ layout: post
 title:  "Saturday Meetup - Week 2"
 author: wale
 categories: [ Meetup Discussion ]
-image: assets/images/6.jpg
+image: assets/images/11-07-2020-saturdy-meetup/meetup2-img.jpg
 tags: featured
 
 ---
